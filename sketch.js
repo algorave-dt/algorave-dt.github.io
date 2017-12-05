@@ -13,7 +13,7 @@ function setup()
 
   //load each song into the array
   playlist.push(loadSound('assets/songs/anny.wav'));
-  playlist.push(loadSound('assets/songs/haley1.wav'));
+  // playlist.push(loadSound('assets/songs/haley1.wav'));
   playlist.push(loadSound('assets/songs/haley2.wav'));
   playlist.push(loadSound('assets/songs/omrinuri.mp3'));
   playlist.push(loadSound('assets/songs/vishaal1.wav'));

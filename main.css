@@ -1,0 +1,16 @@
+
+
+
+h1,h2,li{
+    /* font-family: 'Righteous', cursive; */
+    padding-left: 10%;
+    font-family: 'Oswald', sans-serif;
+}
+
+li{
+    font-family: 'Inconsolata', monospace;
+}
+
+/* h2{
+    font-family: 'Unica One', cursive;
+} */
